@@ -4,8 +4,7 @@ title: About Me
 permalink: /about/
 slug: about
 ---
-Inline-style: 
-![alt text](https://IloveYouKen.github.io/aboutme.JPG "Logo Title Text 1")
+![alt text](https://IloveYouKen.github.io/aboutme(2).JPG "Logo Title Text 1")
 
 This is WEIQIANG ZHOU. I am a computational biologist and computer scientist working on genomics and big data analysis. Currently, I am a postdoctoral fellow at Department of Biostatistics at Johns Hopkins Bloomberg School of Public Health. My primary research interest is to develop statistical and computational tools for integrative analyses of various types of large-scale genomic data.
 
