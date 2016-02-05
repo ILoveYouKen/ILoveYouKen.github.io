@@ -7,9 +7,6 @@ description: "welcome"
 github: https://github.com/WeiqiangZhou
 
 
-paginate: 
-comments: true
-paginate_path: "/page/:num"
 
 sass:
   style: :compressed
