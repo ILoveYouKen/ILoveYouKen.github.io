@@ -1,0 +1,27 @@
+# Site settings
+title: Siruo Sara Wang
+email: sara.siruo@gmail.com
+description: 
+baseurl: ""
+url: 
+
+author:
+  name     : 'Siruo Wang'
+  email    : sara.siruo@gmail.com
+  url      : http://siruowang.com
+  
+
+github: https://github.com/SiruoWang
+
+
+paginate: 2
+comments: true
+paginate_path: "/page/:num"
+
+sass:
+  style: :compressed
+  sass_dir: _sass
+
+# Build settings
+markdown  : kramdown
+permalink : /:title/
