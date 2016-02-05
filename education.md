@@ -8,3 +8,7 @@ slug: education
 __Postdoctoral Fellow__ 
 (11/2013-present)
 >Department of Biostatistics
+
+>Johns Hopkins Bloomberg School of Public Health
+
+>Supervisor: Prof. Hongkai Ji
