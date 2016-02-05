@@ -5,4 +5,4 @@ permalink: /education/
 slug: education
 ---
 
-__Postdoctoral Fellow__		Department of Biostatistics
+__Postdoctoral Fellow__       Department of Biostatistics
