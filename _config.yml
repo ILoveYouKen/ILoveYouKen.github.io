@@ -7,14 +7,14 @@ url:
 
 author:
   name     : 'Weiqiang Zhou'
-  email    : kenzhou86@gmail@gmail.com
+  email    : kenzhou86@gmail.com
   url      : http://weiqiangzhou.com
   
 
 github: https://github.com/WeiqiangZhou
 
 
-paginate: 2
+paginate: 
 comments: true
 paginate_path: "/page/:num"
 
