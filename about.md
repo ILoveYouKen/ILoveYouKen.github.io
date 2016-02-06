@@ -1,8 +1,8 @@
 ---
 layout: page
 title: About Me
-permalink: /about/
-slug: about
+permalink: /aboutme/
+slug: aboutme
 ---
 
 ![alt text](https://IloveYouKen.github.io/about.JPG "Logo Title Text 1")
