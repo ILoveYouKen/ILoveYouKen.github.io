@@ -16,3 +16,9 @@ slug: software
 >**Overview**: PDDB is a database of DNase I hypersensitivity profiles for thousands of biological samples predicted based on gene expression. 
 
 >PDDB is available [here](http://jilab.biostat.jhsph.edu/~bsherwo2/bird/index.php).
+
+**SCRAT: a toolbox for analyzing single-cell regulome data**
+
+>**Overview**: SCRAT is a Single-Cell Regulome Analysis Toolbox with a graphical user interface, for studying cell heterogeneity using single-cell regulome data.
+
+>SCRAT is available [here](https://github.com/zji90/SCRAT).
