@@ -7,7 +7,7 @@ slug: publication
 
 A full list of publications can be found in my google scholar website [here](https://scholar.google.com/citations?user=BDB3l1oAAAAJ&hl=en).
 
-Selected papers (selected from 20 publications):
+Selected papers (selected from 24 publications):
 
 >__Zhou, W.__, Sherwood, B. & Ji, H. Computational Prediction of the Global Functional Genomic Landscape: Applications, Methods and Challenges. Human Heredity. (2016). (in press) <br/>
 
