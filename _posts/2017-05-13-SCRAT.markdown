@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "SCRAT accepted in Bioinformatics"
-date:   2017-05-013 12:43:00
+date:   2017-05-13 12:43:00
 categories: paper update
 comments: true
 ---
