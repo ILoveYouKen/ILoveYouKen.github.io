@@ -5,4 +5,4 @@ date:   2017-05-13 12:43:00
 categories: paper update
 comments: false
 ---
-SCRAT is now accepted in Bioinformatics: "Single-cell regulome data analysis by SCRAT". Check out our SCRAT software in: https://zhiji.shinyapps.io/scrat/
+SCRAT is now accepted in Bioinformatics: "Single-cell regulome data analysis by SCRAT". Check out our SCRAT software in: <https://zhiji.shinyapps.io/scrat/>
