@@ -10,7 +10,9 @@ author:
 
 github: https://github.com/WeiqiangZhou
 
-
+paginate: 2
+comments: true
+paginate_path: "/page/:num"
 
 sass:
   style: :compressed
