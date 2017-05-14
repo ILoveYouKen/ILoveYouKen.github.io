@@ -11,9 +11,7 @@ slug: software
 
 >BIRD is available [here](https://github.com/WeiqiangZhou/BIRD).
 
-![](http://weiqiangzhou.com/images/bird_overview.png "BIRD overview")
-
-
+![](http://weiqiangzhou.com/images/bird_overview.png "BIRD overview") 
 
 ### PDDB: Predicted DNase I hypersensitivity database
 
@@ -21,9 +19,7 @@ slug: software
 
 >PDDB is available [here](http://jilab.biostat.jhsph.edu/~bsherwo2/bird/index.php).
 
-![](http://weiqiangzhou.com/images/PDDB_overview.png "PDDB overview")
-
-
+![](http://weiqiangzhou.com/images/PDDB_overview.png "PDDB overview") 
 
 ### SCRAT: a toolbox for analyzing single-cell regulome data
 
