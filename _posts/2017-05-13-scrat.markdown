@@ -7,4 +7,4 @@ comments: false
 ---
 SCRAT is now accepted in Bioinformatics: "Single-cell regulome data analysis by SCRAT". Check out our SCRAT software in: <https://zhiji.shinyapps.io/scrat/>
 
-![alt text](https://IloveYouKen.github.io/about.JPG "Logo Title Text 1")
+![](http://weiqiangzhou.com/images/scrat_screenshot.png "SCRAT screenshot")
