@@ -11,6 +11,8 @@ slug: software
 
 >BIRD is available [here](https://github.com/WeiqiangZhou/BIRD).
 
+![](http://weiqiangzhou.com/images/bird_overview.png "BIRD overview")
+
 **PDDB: Predicted DNase I hypersensitivity database**
 
 >**Overview**: PDDB is a database of DNase I hypersensitivity profiles for thousands of biological samples predicted based on gene expression. 
