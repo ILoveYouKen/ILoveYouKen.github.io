@@ -19,8 +19,12 @@ slug: software
 
 >PDDB is available [here](http://jilab.biostat.jhsph.edu/~bsherwo2/bird/index.php).
 
+![](http://weiqiangzhou.com/images/PDDB_overview.png "PDDB overview")
+
 **SCRAT: a toolbox for analyzing single-cell regulome data**
 
 >**Overview**: SCRAT is a Single-Cell Regulome Analysis Toolbox with a graphical user interface, for studying cell heterogeneity using single-cell regulome data.
 
 >SCRAT is available [here](https://github.com/zji90/SCRAT).
+
+![](http://weiqiangzhou.com/images/scrat_screenshot.png "scrat screenshot")
