@@ -9,7 +9,7 @@ A full list of publications can be found in my google scholar website [here](htt
 
 Selected papers (selected from 24 publications):
 
->Ji, Z., __Zhou, W.__ & Ji, H. Single-cell regulome data analysis by SCRAT. Bioinformatics (2017). [Joint first author] (in press) <br/>
+>Ji, Z., __Zhou, W.__ & Ji, H. Single-cell regulome data analysis by SCRAT. Bioinformatics (2017). [Joint first author] ([in press](https://doi.org/10.1093/bioinformatics/btx315)) <br/>
 
 >__Zhou, W.__, Sherwood, B. & Ji, H. Computational Prediction of the Global Functional Genomic Landscape: Applications, Methods and Challenges. Human Heredity 81 (2), 88-105. (2017). <br/>
 
