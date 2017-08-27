@@ -13,7 +13,7 @@ Selected papers (selected from 24 publications):
 
 >__Zhou, W.__, Sherwood, B. & Ji, H. Computational Prediction of the Global Functional Genomic Landscape: Applications, Methods and Challenges. Human Heredity 81 (2), 88-105. (2017). <br/>
 
->__Zhou, W.__, Ji, Z. & Ji, H. Global Prediction of Chromatin Accessibility Using RNA-seq from Small Number of Cells. [bioRxiv](http://biorxiv.org/content/early/2016/01/03/035816) (2016). <br/>
+>__Zhou, W.__, Ji, Z. & Ji, H. Global Prediction of Chromatin Accessibility Using RNA-seq from Small Number of Cells. [bioRxiv](http://biorxiv.org/content/early/2016/01/03/035816) (accepted in Nature Communications) (2017). <br/>
 
 >__Zhou, W.__ et al. Genome-wide Prediction of DNase I Hypersensitivity Using Gene Expression. [bioRxiv](http://biorxiv.org/content/early/2016/01/03/035808) (2016). <br/>
 
