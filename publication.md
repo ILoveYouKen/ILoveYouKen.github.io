@@ -7,7 +7,7 @@ slug: publication
 
 A full list of publications can be found in my google scholar website [here](https://scholar.google.com/citations?user=BDB3l1oAAAAJ&hl=en).
 
-Selected papers (selected from 24 publications):
+Selected papers (selected from 27 publications):
 
 >Ji, Z., __Zhou, W.__ & Ji, H. Single-cell regulome data analysis by SCRAT. _Bioinformatics_ (2017). [Joint first author] ([in press](https://doi.org/10.1093/bioinformatics/btx315)) <br/>
 
