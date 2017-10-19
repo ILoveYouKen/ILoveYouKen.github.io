@@ -1,2 +1,10 @@
-BIRD is published online now!
+---
+layout: post
+title:  "BIRD is published in Nature Communications!"
+date:   2017-10-19 10:50:00
+categories: paper update
+comments: false
+---
+BIRD is now pubished in *Nature Communications*: ["Genome-wide prediction of DNase I hypersensitivity using gene expression"](https://www.nature.com/articles/s41467-017-01188-x).
 
+![](http://weiqiangzhou.com/images/scrat_screenshot.png "SCRAT screenshot")
