@@ -21,7 +21,7 @@ Selected papers (selected from 27 publications):
 
 >Wang, D. D., __Zhou, W.__, Yan, H., Wong, M. & Lee, V. Personalized prediction of EGFR mutation-induced drug resistance in lung cancer. _Scientific Reports_ 3 (2013).<br/>
 
->__Zhou, W.__ & Yan, H. Alpha shape and Delaunay triangulation in studies of protein-related interactions. _Briefings in Bioinformatics_ (2012).<br/>
+>__Zhou, W.__ & Yan, H. Alpha shape and Delaunay triangulation in studies of protein-related interactions. _Briefings in Bioinformatics_ 15, 54-64 (2012).<br/>
 
 >__Zhou, W.__ & Yan, H. A discriminatory function for prediction of protein-DNA interactions based on alpha shape modeling. _Bioinformatics_ 26, 2541-2548 (2010).<br/>
 
