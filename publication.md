@@ -9,9 +9,9 @@ A full list of publications can be found in my google scholar website [here](htt
 
 Selected papers (selected from 27 publications):
 
->__Zhou, W.__ et al. Genome-wide Prediction of DNase I Hypersensitivity Using Gene Expression. [bioRxiv](http://biorxiv.org/content/early/2016/01/03/035808) (accepted in _Nature Communications_) (2017). <br/>
+>__Zhou, W.__ et al. Genome-wide Prediction of DNase I Hypersensitivity Using Gene Expression. _Nature communications_ 8, 1038 (2017). [open access](https://www.nature.com/articles/s41467-017-01188-x) <br/>
 
->Ji, Z., __Zhou, W.__ & Ji, H. Single-cell regulome data analysis by SCRAT. _Bioinformatics_ (2017). [Joint first author] ([in press](https://doi.org/10.1093/bioinformatics/btx315)) <br/>
+>Ji, Z., __Zhou, W.__ & Ji, H. Single-cell regulome data analysis by SCRAT. _Bioinformatics_ 33, 2930–2932 (2017). [Joint first author] ([open access](https://doi.org/10.1093/bioinformatics/btx315)) <br/>
 
 >__Zhou, W.__, Sherwood, B. & Ji, H. Computational Prediction of the Global Functional Genomic Landscape: Applications, Methods and Challenges. _Human Heredity_ 81 (2), 88-105. (2017). <br/>
 
