@@ -25,3 +25,5 @@ sass:
 markdown  : kramdown
 permalink : /:title/
 
+# Google Analytics
+google_analytics: UA-72222972-2
