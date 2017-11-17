@@ -119,9 +119,9 @@
   margin: 0;
 
   li {
-    padding: 20px;
+    padding: 30px;
     margin: 0;
-    text-transform: lowercase;
+    //text-transform: lowercase;
     float: left;
     display: inline-block;
     @include transition(background .2s linear);
