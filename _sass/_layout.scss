@@ -45,7 +45,7 @@
   min-height: 60px;
   position: relative;
   @extend %clearfix;
-  padding: 60px 0;
+  padding: 100px 0;
   margin-bottom: 30px;
 
   .overlay {
@@ -119,9 +119,9 @@
   margin: 0;
 
   li {
-    padding: 30px;
+    padding: 20px;
     margin: 0;
-    //text-transform: lowercase;
+    text-transform: lowercase;
     float: left;
     display: inline-block;
     @include transition(background .2s linear);
