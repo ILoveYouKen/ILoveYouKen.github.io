@@ -121,7 +121,8 @@
   li {
     padding: 20px;
     margin: 0;
-    text-transform: lowercase;
+    text-transform: none;
+    font-size: 30px;
     float: left;
     display: inline-block;
     @include transition(background .2s linear);
